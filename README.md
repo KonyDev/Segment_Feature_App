@@ -9,6 +9,7 @@ Below featues are implented in this app:
 * Swipe to delete for a particular row.
 * Pull to refresh.
 * Coupled segements for comparison purpose.
+* Search Segment using searchText API
 
 
 Supported platforms:
@@ -18,4 +19,4 @@ Android, iOS
 
 Supported Studio versions:
 ---------------------------
-7.3 and above
+8.4.14 and above
